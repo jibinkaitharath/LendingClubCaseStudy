@@ -1,9 +1,19 @@
-# Telecom Churn Case Study
-> Here we need to primarily determine whether the customer will churn or not from its network in the Telecom Industry
+# Lending Club Case Study
+> This project assignment uses EDA techniques to do the risk analysis on Lending Club. This study tries to solve problem of lending money to risky customers.
+
+
+## Table of Contents
+* Problem Statement
+* Data Cleaning
+* Univariate Analysis
+* MultiVariate Analysis
+* Conclusion
 
 
 ## General Information
-- Telecom_Churn_Case_Study.ipynb file is code notebook.
+- Lending_Club_Case_Study.ipynb file is code notebook.
+- Lending_Club_Insights.pdf provides insights and recommendations.
+- Loan.csv is provided in the data file.
 
 
 ## Technologies Used
@@ -17,10 +27,10 @@
 
 ## Acknowledgements
 
-- This project was based on Kaggle dataset on Telecom Churn  for IIIT-B and Upgrad assignment
+- This project was based on LendingClub.com for IIIT-B and Upgrad assignment
 
 
 ## Contact
 Created by 
 @ github.com/jibinkaitharath
-@ github.com/shrutisneha2011
+@ github.com/aky2608
